@@ -4,7 +4,7 @@ It turns out that most of the major carriers will allow you to send SMS messages
 
 #Installation#
 
-Installation by running `setup.py install` from the command line.
+Install by running `setup.py install` from the command line.
 
 #How To Use#
 
